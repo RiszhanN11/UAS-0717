@@ -1,0 +1,4 @@
+#Tue Jan 19 20:32:09 ICT 2021
+base.0=G\:\\UAS 0717\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
